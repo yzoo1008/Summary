@@ -26,8 +26,8 @@
 - Similar to gas interference.
 - This problem can be solved either by increasing pump clearance or by increasing the dipping of the pumps inside the well.
 
-# Plunger Hitting Bottom and Top
+## Plunger Hitting Bottom and Top
 - Change at the end of the downstroke or the end of the upstroke is occured.
 
-# Malfunctioning Tubing Anchor
+## Malfunctioning Tubing Anchor
 - 
