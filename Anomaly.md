@@ -19,4 +19,15 @@
 
 ## Leaking of the SV
 - Beginning and the end of the downstorke changes found at the dynamometer card. Otherwise, there is no difference.
+- The pressure in the pump barrel cannot invrease fast enough.
+- Minimum fluid load on the plunger occurs approximately in the middle of the stroke where the plunger has maximum speed.
+
+## Gas Lock
+- Similar to gas interference.
+- This problem can be solved either by increasing pump clearance or by increasing the dipping of the pumps inside the well.
+
+# Plunger Hitting Bottom and Top
+- Change at the end of the downstroke or the end of the upstroke is occured.
+
+# Malfunctioning Tubing Anchor
 - 
