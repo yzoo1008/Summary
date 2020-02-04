@@ -27,13 +27,15 @@
 <img src="anomaly/Leaking of the SV.PNG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Leaking of the SV"></img>  
 
 ## Gas Lock
-- Similar to gas interference.
-- This problem can be solved either by increasing pump clearance or by increasing the dipping of the pumps inside the well.
+- Similar to gas interference.  
+- This problem can be solved either by increasing pump clearance or by increasing the dipping of the pumps inside the well.  
+<img src="anomaly/Gas Lock.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Gas Lock"></img>  
 
-## Plunger Hitting Bottom and Top
-- Change at the end of the downstroke or the end of the upstroke is occured.
+## Plunger Hitting Bottom and Top  
+- Change at the end of the downstroke or the end of the upstroke is occured.  
+<img src="anomaly/Plunger Hitting Bottom and Top.JPG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Plunger Hitting Bottom and Top"></img>  
 
-## Malfunctioning Tubing Anchor
+## Malfunctioning Tubing Anchor  
 <img src="anomaly/Malfunctioning Tubing Anchor.PNG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Tubing Anchor"></img>
 
 ## Polished Rod Bent
